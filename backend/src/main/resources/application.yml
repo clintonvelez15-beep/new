@@ -22,6 +22,6 @@ mybatis-plus:
 
 # DeepSeek API配置
 deepseek:
-  api-key: sk-b39f9e2d2c504e1a9f65ce924ea854d7
+  api-key: sk-
   api-url: https://api.deepseek.com/v1/chat/completions
   model: deepseek-chat
